@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ZRecyclerView-AndroidX.iml" filepath="$PROJECT_DIR$/.idea/modules/ZRecyclerView-AndroidX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ZRecyclerView-AndroidX.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ZRecyclerView-AndroidX.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zrecyclerview/ZRecyclerView-AndroidX.zrecyclerview.iml" filepath="$PROJECT_DIR$/.idea/modules/zrecyclerview/ZRecyclerView-AndroidX.zrecyclerview.iml" />
+    </modules>
+  </component>
+</project>

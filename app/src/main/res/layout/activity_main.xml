@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    >
+
+    <Button
+        android:id="@+id/btn_recycler"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ZRecyclerView"
+        />
+
+    <Button
+        android:id="@+id/btn_multi_data"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MultiData"
+        />
+
+    <Button
+        android:id="@+id/btn_expandable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Expandable"
+        />
+
+    <Button
+        android:id="@+id/btn_drag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Drag"
+        />
+
+</LinearLayout>
